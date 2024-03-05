@@ -1,0 +1,60 @@
+.tweeter{
+
+    box-shadow: 0 0 6px rgba(0,0,0,0.3);
+    width: 450px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 6px;
+
+    
+}
+
+
+
+.circle{
+
+
+
+    width: 50px;
+height: 50px;
+object-fit: cover;
+border-radius: 25px;
+vertical-align: middle;
+margin-right: 5px;
+
+}
+
+
+
+    .button{
+        border-radius: 30px;
+    
+        padding-top: 8px;
+        background-color: rgb(29, 155, 240);
+        color: white;
+        padding-bottom: 8px;
+        border:none;
+        text-align: center;
+        font-weight: bold;
+        vertical-align: middle;
+        padding-left: 16px;
+        padding-right: 16px;
+        font-size: 16px;
+
+
+        
+
+
+
+    }
+    .none{
+
+        border: none;
+        vertical-align: middle;
+        font-size: 18px;
+        width: 300px;
+    
+    }
+    

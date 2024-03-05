@@ -1,0 +1,71 @@
+p{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.viedo-title{
+    
+    font-size: 18px;
+    font-weight: bold;
+    width: 280px;
+    line-height: 26px;
+    
+    text-align: left;
+    
+    margin-bottom: 2px;
+
+
+
+
+}
+.viedo-stats{
+   
+
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    
+    margin-bottom: 16px;
+
+
+
+}
+.viedo-author{
+    
+    color: rgb(96, 96, 96);
+   
+    margin-bottom: 10px;
+    font-size: 14px;
+    
+    
+}
+.viedo-description{
+    
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    line-height: 21px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    
+
+}
+
+.apple-text{
+    margin-bottom: 60px;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    margin-top: 60px;
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+   
+    
+    
+}
+.shop-text:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
